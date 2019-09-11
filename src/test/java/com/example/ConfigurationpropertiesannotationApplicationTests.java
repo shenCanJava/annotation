@@ -20,6 +20,7 @@ public class ConfigurationpropertiesannotationApplicationTests {
         System.out.println("dd");
         System.out.println("dd");
         System.out.println("qqqqqq");
+        System.out.println("pppppppp");
 	}
 
 }
