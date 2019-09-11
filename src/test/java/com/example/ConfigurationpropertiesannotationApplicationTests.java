@@ -11,13 +11,14 @@ public class ConfigurationpropertiesannotationApplicationTests {
 
 	@Test
 	public void contextLoads() {
-		System.out.println("aa");
-		System.out.println("bb");
-		System.out.println("cc");
-		System.out.println("dd");
-		System.out.println("ee");
-		System.out.println("ff");
-		System.out.println("gg");
+		System.out.println("hh");
+		System.out.println("dsad");
+		System.out.println("dsa");
+		System.out.println("dsad");
+		System.out.println("dsad");
+		System.out.println("ddsads");
+		System.out.println("qqqq");
+		System.out.println("dddd");
 	}
 
 }
