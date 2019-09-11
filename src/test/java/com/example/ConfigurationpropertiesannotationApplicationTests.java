@@ -21,9 +21,9 @@ public class ConfigurationpropertiesannotationApplicationTests {
         System.out.println("dd");
         System.out.println("qqqqqq");
         System.out.println("pppppppp");
-	System.out.println("eeeeee");
-	System.out.println("ggggggg");
-	System.out.println("rrrrrr");
+	    System.out.println("eeeeee");
+	    System.out.println("ggggggg");
+	    System.out.println("rrrrrr");
 	}
 
 }
